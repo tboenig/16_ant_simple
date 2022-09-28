@@ -29,12 +29,14 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>72</td>
+            <td>3</td>
+            <td>19</td>
          </tr>
       </tbody>
    </table>
@@ -63,7 +65,27 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>heyden_paedono_1548</td>
+                  <td>19</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>72</td>
+                  <td>3</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
