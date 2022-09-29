@@ -78,7 +78,7 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_simple/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
+         <a href="https://github.com/tboenig/16_ant_simple/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_simple/releases">Version archive</a>
