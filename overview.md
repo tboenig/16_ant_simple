@@ -134,6 +134,25 @@
    </thead>
    <tbody>
       <tr>
+         <th>heyden_paedono_1548_0013.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>24</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>heyden_paedono_1548_0014.xml</th>
          <td>7</td>
          <td>0</td>
@@ -169,25 +188,6 @@
          <td>0</td>
          <td>0</td>
          <td>25</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>heyden_paedono_1548_0013.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>24</td>
          <td>1</td>
       </tr>
    </tbody>

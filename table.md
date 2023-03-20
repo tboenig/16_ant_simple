@@ -240,6 +240,27 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                         </thead>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/16_ant_simple/blob/main/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0013.xml">heyden_paedono_1548_0013.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/16_ant_simple/blob/main/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0014.xml">heyden_paedono_1548_0014.xml</a>
                            </td>
                            <td>23</td>
@@ -266,27 +287,6 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                            <td>25</td>
                            <td>1</td>
                            <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_ant_simple/blob/main/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0013.xml">heyden_paedono_1548_0013.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
