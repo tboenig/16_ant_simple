@@ -134,8 +134,8 @@
    </thead>
    <tbody>
       <tr>
-         <th>heyden_paedono_1548_0013.xml</th>
-         <td>7</td>
+         <th>heyden_paedono_1548_0007.xml</th>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -149,7 +149,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>24</td>
+         <td>25</td>
          <td>1</td>
       </tr>
       <tr>
@@ -172,8 +172,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>heyden_paedono_1548_0007.xml</th>
-         <td>5</td>
+         <th>heyden_paedono_1548_0013.xml</th>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -187,7 +187,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>25</td>
+         <td>24</td>
          <td>1</td>
       </tr>
    </tbody>

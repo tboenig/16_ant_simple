@@ -240,11 +240,11 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_simple/blob/v1.0.0/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0013.xml">heyden_paedono_1548_0013.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_simple/blob/v1.1.0/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0007.xml">heyden_paedono_1548_0007.xml</a>
                            </td>
-                           <td>24</td>
+                           <td>25</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -261,7 +261,7 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_simple/blob/v1.0.0/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0014.xml">heyden_paedono_1548_0014.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_simple/blob/v1.1.0/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0014.xml">heyden_paedono_1548_0014.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -282,11 +282,11 @@ https://ocr-d.de/en/gt-guidelines/trans/</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_simple/blob/v1.0.0/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0007.xml">heyden_paedono_1548_0007.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_simple/blob/v1.1.0/data/heyden_paedono_1548/GT-PAGE/heyden_paedono_1548_0013.xml">heyden_paedono_1548_0013.xml</a>
                            </td>
-                           <td>25</td>
+                           <td>24</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
